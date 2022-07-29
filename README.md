@@ -33,9 +33,13 @@ Curso da Alura para criação de uma página da Web MOBILE para uma empresa fict
 
 
 :heavy_check_mark: Como desenvolver uma pagina a partir do FIGMA
+
 :heavy_check_mark: Uso do EMMET e INTELLISENSE CSS
+
 :heavy_check_mark: Variaveis de Estilo CSS  
+
 :heavy_check_mark: Desenvolvimento utilizando Componentes
+
 :heavy_check_mark: Utilizaçao do BEM CSS
 
 ## Layout ou Deploy da Aplicação :dash:
